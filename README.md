@@ -30,7 +30,7 @@ Now, in command mode in VIM, run below commands one by one
 :CocCommand clangd.install
 ```
 
-# For Un-Interactive questions
+### For Un-Interactive questions
 Press F5, for executing problem with input stored in in.txt file in same directory
-# For Interactive questions
+### For Interactive questions
 Press F6, for executing problem with custom run time input 
