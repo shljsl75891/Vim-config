@@ -1,5 +1,9 @@
 # Vim-config
 
+VIM Setup for C++ -> IDE like experience
+![image](https://user-images.githubusercontent.com/56100355/181486687-20441e23-9d14-4594-a814-a08af279cfe9.png)
+
+
 ### Dependencies for Debian-based 
 
 ```sh
@@ -25,3 +29,8 @@ Now, in command mode in VIM, run below commands one by one
 :CocInstall coc-clang
 :CocCommand clangd.install
 ```
+
+# For Un-Interactive questions
+Press F5, for executing problem with input stored in in.txt file in same directory
+# For Interactive questions
+Press F6, for executing problem with custom run time input 
