@@ -20,3 +20,4 @@ inoremap <silent><expr> <Tab>
 set noswapfile
 autocmd filetype cpp nnoremap <F5> :w <bar> !clear && g++ -std=c++17 -O2 -Wall % && ./a.out < in.txt<CR>
 autocmd filetype cpp nnoremap <F6> :w <bar> !clear && g++ -std=c++17 -O2 -Wall % && ./a.out<CR>
+set mouse=a
