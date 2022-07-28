@@ -5,9 +5,10 @@ VIM Setup for C++ -> IDE like experience
 
 
 ### Dependencies for Debian-based 
+Just copy paste in terminal
 
 ```sh
-sudo apt install yarn nodejs build-essential
+sudo apt install yarn nodejs build-essential curl
 ``` 
 
 Install Vim-Plug 
