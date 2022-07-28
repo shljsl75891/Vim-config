@@ -9,15 +9,6 @@ Just copy paste in terminal
 
 ```sh
 sudo apt install yarn nodejs build-essential curl
-``` 
-
-Install Vim-Plug 
-
-#### Vim
-
-###### Unix
-
-```sh
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
